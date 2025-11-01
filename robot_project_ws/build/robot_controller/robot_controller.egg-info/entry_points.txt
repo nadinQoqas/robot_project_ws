@@ -1,0 +1,4 @@
+[console_scripts]
+command_subscriber = robot_controller.command_subscriber:main
+status_publisher = robot_controller.status_publisher:main
+velocity_publisher = robot_controller.velocity_publisher:main

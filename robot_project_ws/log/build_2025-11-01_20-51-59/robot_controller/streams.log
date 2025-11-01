@@ -1,0 +1,26 @@
+[1.422s] Invoking command in '/home/kareem/robot_project_ws/build/robot_controller': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kareem/robot_project_ws/build/robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kareem/robot_project_ws/install/robot_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kareem/robot_project_ws/build/robot_controller/build --no-deps symlink_data
+[1.830s] running develop
+[1.974s] running egg_info
+[1.974s] creating robot_controller.egg-info
+[1.984s] writing robot_controller.egg-info/PKG-INFO
+[1.985s] writing dependency_links to robot_controller.egg-info/dependency_links.txt
+[1.985s] writing entry points to robot_controller.egg-info/entry_points.txt
+[1.985s] writing requirements to robot_controller.egg-info/requires.txt
+[1.985s] writing top-level names to robot_controller.egg-info/top_level.txt
+[1.985s] writing manifest file 'robot_controller.egg-info/SOURCES.txt'
+[2.015s] reading manifest file 'robot_controller.egg-info/SOURCES.txt'
+[2.016s] writing manifest file 'robot_controller.egg-info/SOURCES.txt'
+[2.036s] running build_ext
+[2.039s] Creating /home/kareem/robot_project_ws/install/robot_controller/lib/python3.12/site-packages/robot-controller.egg-link (link to .)
+[2.040s] Installing command_subscriber script to /home/kareem/robot_project_ws/install/robot_controller/lib/robot_controller
+[2.040s] Installing status_publisher script to /home/kareem/robot_project_ws/install/robot_controller/lib/robot_controller
+[2.040s] Installing velocity_publisher script to /home/kareem/robot_project_ws/install/robot_controller/lib/robot_controller
+[2.040s] 
+[2.040s] Installed /home/kareem/robot_project_ws/build/robot_controller
+[2.040s] running symlink_data
+[2.041s] creating /home/kareem/robot_project_ws/install/robot_controller/share/ament_index
+[2.041s] creating /home/kareem/robot_project_ws/install/robot_controller/share/ament_index/resource_index
+[2.041s] creating /home/kareem/robot_project_ws/install/robot_controller/share/ament_index/resource_index/packages
+[2.041s] symbolically linking /home/kareem/robot_project_ws/build/robot_controller/resource/robot_controller -> /home/kareem/robot_project_ws/install/robot_controller/share/ament_index/resource_index/packages
+[2.041s] symbolically linking /home/kareem/robot_project_ws/build/robot_controller/package.xml -> /home/kareem/robot_project_ws/install/robot_controller/share/robot_controller
+[2.073s] Invoked command in '/home/kareem/robot_project_ws/build/robot_controller' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kareem/robot_project_ws/build/robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kareem/robot_project_ws/install/robot_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kareem/robot_project_ws/build/robot_controller/build --no-deps symlink_data
